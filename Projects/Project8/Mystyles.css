@@ -144,3 +144,8 @@ p {
 		font-style:italic;
 
 	}
+#splashContainer {
+	width: 900px;
+	margin: 0 auto;
+	text-align: center;
+}
